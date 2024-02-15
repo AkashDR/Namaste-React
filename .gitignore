@@ -1,0 +1,4 @@
+# Excluding following files/item from commit
+/node_modules
+.parcel-cache/
+dist/
